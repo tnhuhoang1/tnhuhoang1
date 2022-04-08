@@ -29,8 +29,20 @@
 ---
 
 ### :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tnhuhoang1&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnhuhoang1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p style="align: center;">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tnhuhoang1&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</p>
+<p style="align: center;">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnhuhoang1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+<p style="align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=tnhuhoang1&show_icons=true&theme=dark"/>
+</p>
+<p style="align: center;">
+  <img src="https://activity-graph.herokuapp.com/graph?username=tnhuhoang1&theme=react-dark&hide_border=true"/>
+</p>
+
+
 
 
 <!--
